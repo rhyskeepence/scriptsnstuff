@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/usr/local/etc/bash_completion.d'
+let g:netrw_dirhist_2='/Users/rhyskeepence/code/scalaunit'
+let g:netrw_dirhist_3='/Users/rhyskeepence/.bintray'
